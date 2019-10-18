@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<phpunit
+  bootstrap="vendor/autoload.php"
+  colors="true"
+  stopOnFailure="false"
+  stopOnError="true"
+>
+  <testsuites>
+    <testsuite name="Locomotive Test Suite">
+      <directory suffix="Test.php">tests/</directory>
+    </testsuite>
+  </testsuites>
+
+  <filter>
+    <whitelist>
+      <directory suffix=".php">src/</directory>
+    </whitelist>
+  </filter>
+</phpunit>
