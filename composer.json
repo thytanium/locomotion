@@ -14,7 +14,9 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {},
+    "require": {
+        "ruler/ruler": "^0.3"
+    },
     "autoload": {
       "psr-4": {
         "Thytanium\\Locomotive\\": "src/"
