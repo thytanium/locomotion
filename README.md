@@ -1,2 +1,2 @@
 # locomotion
-Rule based automation engine for PHP
+Business rules engine for PHP
