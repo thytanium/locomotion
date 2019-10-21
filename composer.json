@@ -1,6 +1,6 @@
 {
     "name": "thytanium/locomotive",
-    "description": "Rule based automation engine for PHP",
+    "description": "Business rules engine for PHP",
     "type": "library",
     "require-dev": {
         "phpunit/phpunit": "^8.0",
