@@ -19,7 +19,7 @@
     },
     "autoload": {
       "psr-4": {
-        "Thytanium\\Locomotive\\": "src/"
+        "Thytanium\\Locomotion\\": "src/"
       }
     },
     "autoload-dev": {
